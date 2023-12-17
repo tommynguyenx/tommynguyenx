@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tommy
+- 👀 I’m interested in just learning and observing stuffs
+- 🌱 I’m currently learning CS at UTSC
